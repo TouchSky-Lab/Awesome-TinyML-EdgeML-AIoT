@@ -13,6 +13,12 @@
 - 【RNNPooL】Rnnpool: Efficient non-linear pooling for ram constrained inference.
 
 
+# Approximate Convolution Algorithm
+- Optimizing Grouped Convolutions on Edge Devices | DAC 2020 
+
+
+
+
 # References
 - https://github.com/bisonai/awesome-edge-machine-learning#mcu-and-mpu-software-packages
 - https://github.com/phodal/awesome-iot
