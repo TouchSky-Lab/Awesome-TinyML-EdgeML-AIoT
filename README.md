@@ -15,6 +15,9 @@
 
 # Approximate Convolution Algorithm
 - Optimizing Grouped Convolutions on Edge Devices | DAC 2020 
+- Optimizing N-dimensional, winograd-based convolution for manycore CPUs | PPoPP 2018
+- Efficient Winograd-based Convolution Kernel Implementation on Edge Devices | DAC 2018
+- Fast Algorithms for Convolutional Neural Networks | CVPR 2016
 
 
 
