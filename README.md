@@ -19,6 +19,11 @@
 - Efficient Winograd-based Convolution Kernel Implementation on Edge Devices | DAC 2018
 - Fast Algorithms for Convolutional Neural Networks | CVPR 2016
 
+# Approxmate Recurrent Neural Network
+- 【FastGRNN】FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network | NIPS 2018 
+- 【MSCRNN】One Size Does Not Fit All: Multi-Scale, Cascaded RNNs for Radar Classification | BuildSys 2019
+- 【EMI-RNN】Multiple Instance Learning for Efficient Sequential Data Classification on Resource-constrained Devices |NIPS 2018 
+- 
 
 
 
